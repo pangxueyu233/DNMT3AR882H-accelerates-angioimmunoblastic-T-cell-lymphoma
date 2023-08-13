@@ -1,7 +1,7 @@
 # ***DNMT3A R882H* accelerates angioimmunoblastic T-cell lymphoma in mice**
 
 
-This page recorded the codes and data used and mentioned in [*XXX*](). And you could downloaded this paper by clicking [here]()
+This page recorded the codes and data used and mentioned in [*Oncogene*](https://www.nature.com/articles/s41388-023-02699-2#data-availability). And you could downloaded this paper by clicking [here](pdf/s41388-023-02699-2.pdf)
 
 ![image-20221117105515410](README.assets/image-20221117105515410.png)
 
@@ -25,7 +25,7 @@ The code of bulk mutation and transcription data of AITL analysis is recorded an
 
 # **Citation**
 
-Our paper has been published on [*XXX*]()
+Our paper has been published on [*Oncogene*](https://www.nature.com/articles/s41388-023-02699-2#data-availability)
 
 You could downloaded raw data from [GEO Database GSE218137](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE218137)
 
